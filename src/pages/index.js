@@ -82,7 +82,7 @@ const IndexPage = () => {
       <p className="text-2xl font-light  text-black m-5">
         Click on each project to learn more about it!
       </p>
-      <div className="grid justify-items-center grid-cols-3 sm:grid-cols-2 md:grid-cols-3 gap-4">
+      <div className="grid justify-items-center lg:grid-cols-3 sm:grid-cols-1 md:grid-cols-3 gap-4">
       <div className="flex items-center">
       <div>
       <div className="flex w-full justify-center">
@@ -121,7 +121,7 @@ const IndexPage = () => {
       </div>
       <div className="p-10">
       <h1 className="text-5xl text-sky-700 font-black m-5">Awards and Honors</h1>
-      <div className="grid grid-cols-2 gap-5 place-items-strech">
+      <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-5 place-items-strech">
       {awards.map(award => (
           <Card color="bg-slate-50" width="w-full">
           <div>

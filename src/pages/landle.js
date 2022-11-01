@@ -16,7 +16,7 @@ const LandlePage = () => {
         <img src={landle} className="w-2/5 text-center mb-5">
         </img>
         </div>
-        <div className="grid grid-cols-2 place-items-center gap-4">
+        <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 place-items-center gap-4">
             <div>
             <h1 className="text-4xl text-teal-500 font-black m-5">Why did I start this project?</h1>
             <p className="font-light text-lg px-5">
