@@ -74,7 +74,7 @@ const IndexPage = () => {
       </div>
       </div>
       <h1 className="text-5xl text-sky-700 font-black m-5">What I'm working on now:</h1>
-      <div className="m-5 font-light text-2xl">I am working with the Vamvoudakis Lab at Georgia Tech to create a cobotics system where delivery drones and trucks interact to create efficient logistic solutions.</div>
+      <div className="m-5 font-light text-2xl">I am working with Dr. Vamvoudakis at Georgia Tech to create a cobotics system where delivery drones and trucks interact to create efficient logistic solutions.</div>
       </div>
     
       <div className="bg-slate-50 p-10">
