@@ -1,6 +1,6 @@
 
 import * as React from "react"
-import isef from "../images/isef.JPG"
+import isef from "../images/isef.png"
 import canada from "../images/canada.png"
 import {ArrowLeftIcon, ChartPieIcon, ClipboardIcon} from '@heroicons/react/24/outline'
 import landle from "../images/landle2.png"
