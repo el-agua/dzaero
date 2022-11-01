@@ -1,7 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Personal Site`,
+    title: `DZ Aerospace`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: ['gatsby-plugin-postcss',{
+    resolve: 'gatsby-plugin-manifest',
+    options: {
+      icon: 'src/images/dzlogo.png',
+    },
+  },],
 }
