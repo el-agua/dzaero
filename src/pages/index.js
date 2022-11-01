@@ -3,7 +3,6 @@ import Card from "../components/Card"
 import logo from "../images/landle.png"
 import pencl from "../images/parachute.png"
 import speech from "../images/speech.png"
-import Zoom from 'react-reveal/Zoom';
 import {CommandLineIcon, EnvelopeIcon, AcademicCapIcon} from '@heroicons/react/24/outline'
 const awards = [
   
@@ -79,7 +78,6 @@ const IndexPage = () => {
       </div>
     
       <div className="bg-slate-50 p-10">
-      <Zoom>
       <h1 className="text-5xl text-sky-700 font-black m-5">Projects</h1>
       <p className="text-2xl font-light  text-black m-5">
         Click on each project to learn more about it!
@@ -120,9 +118,7 @@ const IndexPage = () => {
       <div className="font-light text-lg px-5">Teddy is a genetic counseling app that uses the power of machine learning. Patients screening for common cancers and their doctors are able to recieve a pre-diagnosis within seconds. This app won the 1st Place Prize ($1000) at the 2021 Hudson Alpha Genomics Hackathon</div>
       </div>
       </div>
-      </Zoom>
       </div>
-      <Zoom>
       <div className="p-10">
       <h1 className="text-5xl text-sky-700 font-black m-5">Awards and Honors</h1>
       <div className="grid grid-cols-2 gap-5 place-items-strech">
@@ -140,7 +136,6 @@ const IndexPage = () => {
         ))}
         </div>
         </div>
-        </Zoom>
         <footer className="h-24 bg-slate-50">
           <div className="flex items-center justify-center h-full">
             <div className="text-sm text-slate-300 italic">
