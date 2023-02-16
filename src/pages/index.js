@@ -69,7 +69,11 @@ const IndexPage = () => {
       </div>
       <div className="flex items-center mt-2">
         <AcademicCapIcon className="w-8 h-8 ml-5 mr-1"></AcademicCapIcon>
+<<<<<<< HEAD
         <a href="https://drive.google.com/file/d/1e7ICeMYrs78vlzVkjAiUhd6pTKHxwTW4/view?usp=sharing" className="text-xl font-light hover:text-blue-300">Link to CV</a>
+=======
+        <a href="https://drive.google.com/file/d/15o17NKcWhJG3VqZoQR7GExCdVNsebb4k/view?usp=sharing" className="text-xl font-light hover:text-blue-300">Link to CV</a>
+>>>>>>> parent of 4688154 (Delete src directory)
       </div>
       </div>
       </div>
