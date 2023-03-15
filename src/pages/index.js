@@ -69,7 +69,7 @@ const IndexPage = () => {
       </div>
       <div className="flex items-center mt-2">
         <AcademicCapIcon className="w-8 h-8 ml-5 mr-1"></AcademicCapIcon>
-        <a href="https://drive.google.com/file/d/1s-CFapxBl4EhKbXIWvHcMWyBrrAzssQm/view?usp=sharing" className="text-xl font-light hover:text-blue-300">Link to CV</a>
+        <a href="https://drive.google.com/file/d/13c2Dz4fJ6JkwSzATy-pBgHrVoM5wRh4H/view?usp=sharing" className="text-xl font-light hover:text-blue-300">Link to CV</a>
       </div>
       </div>
       </div>
